@@ -2,7 +2,7 @@
 
 This package is a zero-dependency module that loads environment variables from a .env file into process.env.
 
-<img src="icon.svg" width="200">
+<img src="https://raw.githubusercontent.com/alexconlag/dotenv/main/icon.svg" width="200">
 
 - [🌱 Install](#install)
 - [🏗️ Usage](#usage)
